@@ -9,9 +9,11 @@ DAV Module 10 SQL Alchemy Challenge
 
 2. Clone the new repository to your computer.
 
-3. Add your Jupyter notebook and `app.py` to this folder. These will be the main scripts to run for analysis.
+3. Inside your local Git repository, create a directory for this Challenge. Use a folder name that corresponds to the Challenge, such as `SurfsUp`.
 
-4. Push the changes to GitHub or GitLab.
+4. Add your Jupyter notebook and `app.py` to this folder. These will be the main scripts to run for analysis.
+
+5. Push the changes to GitHub or GitLab.
 
 ![surfs-up.png](Images/surfs-up.png)
 
